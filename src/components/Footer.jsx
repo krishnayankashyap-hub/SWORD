@@ -3,7 +3,7 @@ import { Github, Twitter, Linkedin, Facebook, Mail, Phone, MapPin } from 'lucide
 
 const Footer = () => (
   <footer className="bg-white border-t border-slate-200 pt-20 pb-10 relative overflow-hidden">
-    {/* Background Watermark - "SWORD" at the bottom */}
+    {/* Background Watermark "SWORD" at the bottom */}
     <div className="absolute bottom-0 left-0 w-full overflow-hidden pointer-events-none select-none leading-none z-0">
         <h1 className="text-[18vw] font-black text-slate-100 opacity-60 text-center tracking-tighter transform translate-y-[15%]">
           SWORD
