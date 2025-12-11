@@ -296,7 +296,7 @@ const Home = () => {
                     <div>
                       <h3 className="text-xl font-bold text-slate-800 mb-2 group-hover:text-emerald-600 transition-colors">Vocal for Local</h3>
                       <p className="text-slate-500 leading-relaxed">
-                        Proudly built in India, for India. Our technologies are designed to address the specific nuances of the Indian political landscape, promoting self-reliance and local innovation.
+                        Proudly built in ASSAM, for ASSAM. Our technologies are designed to address the specific nuances of the Indian political landscape, promoting self-reliance and local innovation.
                       </p>
                     </div>
                  </div>
