@@ -60,7 +60,7 @@ npm run dev
 Deployment
 
 I deployed the live version using Vercel. I configured it to deploy directly from the main branch, so any updates I push here automatically go live.
-https://sword-n3lc0kvwk-krishnayans-projects.vercel.app
+https://sword-qxffimey9-krishnayans-projects.vercel.app
 
 
 Status: v1.0.0 (Public Release)
